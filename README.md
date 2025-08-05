@@ -61,7 +61,7 @@ Mywork (ss)
 <img width="1920" height="1020" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/932f803f-60e6-4bce-86a7-f9fdeba55972" />
 
 <img width="1920" height="1024" alt="Screenshot (113)" src="https://git<img width="1920" height="1022" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/97c7dd26-b403-4920-832a-9db12f42eb50" />
-hub.com/user-attachments/assets/78d483c3-36ae-41bb-afeb-4e189fd3f1d1" />
+ <img hub.com/user-attachments/assets/78d483c3-36ae-41bb-afeb-4e189fd3f1d1" />
 <img width="1920" height="1024" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/b244f7ac-aa7d-4c18-8414-197ecdbf4da8" />
 
 
