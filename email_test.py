@@ -61,3 +61,4 @@ Thanks,
 ABC Bank
 Noida"""
     send_email(sub, body, uemail)
+
